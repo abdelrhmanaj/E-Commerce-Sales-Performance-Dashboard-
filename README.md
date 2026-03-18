@@ -7,7 +7,7 @@ The dashboard provides insights into revenue, profit, orders, delivery performan
 
 ## Dashboard Preview
 
-<img src="images/excel_dashboard.png" width="900">
+<img src="Excel_Dashboard.png" width="900">
 
 ## Key Metrics
 
